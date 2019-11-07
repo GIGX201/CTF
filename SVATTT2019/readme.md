@@ -61,6 +61,3 @@ kiểm tra lại với input như trên:
 Như vậy flag ở đây là: 
 # `SVATTT{http://dynamorio.org/docs/group__drwrap.html}`
 
-# binary:
-
-https://github.com/GIGX201/CTF/blob/master/SVATTT2019/0day_Hunter.rar
