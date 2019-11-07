@@ -63,4 +63,4 @@ Như vậy flag ở đây là:
 
 # binary:
 
-https://github.com/GIGX201/CTF/blob/master/SVATTT2019/0day_Hunter.rar
+https\://github.com/GIGX201/CTF/blob/master/SVATTT2019/0day_Hunter.rar
