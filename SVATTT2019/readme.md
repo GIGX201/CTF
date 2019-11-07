@@ -2,7 +2,7 @@ Chào các bạn mình là GIGX thuộc team H2DP
 
 Mình không quen viết Write up lắm với văn vở hơi sida  nên mọi người xem xin đừng ném đá :))
 
-#Vào vấn đề:
+# Vào vấn đề:
 
 Khi xem qua function kiểm tra file type trong function fileinfo mình thấy 1 đoạn if đáng ngờ chứa string "SVATTT file" và kèm theo sau nó một function khác mà ở đây mình đã rename thành MESS_F
 
@@ -61,5 +61,6 @@ kiểm tra lại với input như trên:
 Như vậy flag ở đây là: 
 # SVATTT{http://dynamorio.org/docs/group__drwrap.html}
 
-#binary
+# binary:
+
 https://github.com/GIGX201/CTF/blob/master/SVATTT2019/0day_Hunter.rar
