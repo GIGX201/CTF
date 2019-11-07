@@ -61,5 +61,4 @@ kiểm tra lại với input như trên:
 Như vậy flag ở đây là: 
 # `SVATTT{http://dynamorio.org/docs/group__drwrap.html}`
 
-# binary 
-ở trên, password: svattt
+# password giải nén: svattt
