@@ -51,7 +51,7 @@ check function sub_91E40, function này sẽ thay đổi đoạn hex string ch�
  hex string chứa flag:
 DA CB 31 7F 81 98 7B 38 71 D5 07 A7 F0 52 6F 52 08 F1 53 F1 51 60 BF 9A BA F2 AC 55 62 74 3D 9F BC D9 1A 93 9B 33 3E 39 E1 AB 07 81 C0 27 96 46 CD 05 25 B6
 xor với keystream thì được: 
-SVATTT{http://dynamorio.org/docs/group__drwrap.html}
+`SVATTT{http://dynamorio.org/docs/group__drwrap.html}`
 kiểm tra lại với input như trên:
 
 ![](https://raw.githubusercontent.com/GIGX201/CTF/master/SVATTT2019/11.png)
