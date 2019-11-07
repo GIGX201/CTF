@@ -59,8 +59,8 @@ kiểm tra lại với input như trên:
 ![](https://raw.githubusercontent.com/GIGX201/CTF/master/SVATTT2019/12.png)
 
 Như vậy flag ở đây là: 
-# SVATTT{http://dynamorio.org/docs/group__drwrap.html}
+# `SVATTT{http://dynamorio.org/docs/group__drwrap.html}`
 
 # binary:
 
-https\://github.com/GIGX201/CTF/blob/master/SVATTT2019/0day_Hunter.rar
+https://github.com/GIGX201/CTF/blob/master/SVATTT2019/0day_Hunter.rar
